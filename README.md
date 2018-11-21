@@ -13,9 +13,9 @@ Features:
 - Configurable portfolio contents and holding percentages
 - Configurable rebalance frequency
 - CSV log files for each of the following:
- - Portfolio overall state
- - Portfolio value tracking
- - Trade tracking
+ -- Portfolio overall state
+ -- Portfolio value tracking
+ -- Trade tracking
 
 Usage:
 - Copy the files in this repo to a local directory
