@@ -1,13 +1,13 @@
 # HODL-bot
 
-### Python project using [CCXT] (https://github.com/ccxt/ccxt).
+### Python project using [CCXT](https://github.com/ccxt/ccxt).
 
 This bot will automatically balance your cryptocurrency portfolio according to defined parameters at a defined frequency. The application is lightweight and has CSV logging capabilities for analyzing data, recording trades, and tracking performance.
 
 Dependencies:
 - Python 3
-- [CCXT] (https://github.com/ccxt/ccxt)
-- [APScheduler] (https://github.com/agronholm/apscheduler)
+- [CCXT](https://github.com/ccxt/ccxt)
+- [APScheduler](https://github.com/agronholm/apscheduler)
 
 Features:
 - Configurable portfolio contents and holding percentages
